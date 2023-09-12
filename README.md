@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Portfolio
 
-Make it your own! 
+## [Genevieve DuPuy](https://genevievedupuy.netlify.app/)
