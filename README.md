@@ -25,11 +25,11 @@ Actual time needed to complete: 1hr 40mins
 Feature 4: Skills and Experience Sections: As a user, I want to see at a glance the skills and experiences that the developer wants to showcase, so that I can trust they can do the job.
 Estimate of time needed to complete: 1 hr
 Start time: 8pm
-Finish time: _____
-Actual time needed to complete: _____
+Finish time: 9pm
+Actual time needed to complete: 1 hr
 
-Number and name of feature: ________________________________
-Estimate of time needed to complete: _____
-Start time: _____
-Finish time: _____
-Actual time needed to complete: _____
+Feature 5: Personalize: As a user, I want the site to reflect the personal style and feel of the developer, so that I can distinguish them from the average dev.
+Estimate of time needed to complete: 1 hr
+Start time: 9pm
+Finish time: 10pm
+Actual time needed to complete: 1 hr
