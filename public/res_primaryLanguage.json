@@ -11,42 +11,25 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Pair Panic",
+      "startDate": "2023",
+      "description": "This was a collaborative group final project for Code Fellows 201 coding course made by Genevieve DuPuy, Drew Stroede, Justin Benjamin, and Ariania Palmer. We created a web application using a matching card game where the goal is to match 8 pets in the least amount of moves possible (16). The app showcases HTML, CSS, JavaScript, our furry pets, and a ChatGPT Thundercats origin story. It features game logic in order to detect matching or non-matching cards, count your moves and place your score.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/pair-panic/pp1.png",
+        "images/portfolio/pair-panic/pp2.png",
+        "images/portfolio/pair-panic/pp3.png",
+        "images/portfolio/pair-panic/pp4.png"
       ],
-      "url": "",
+      "url": "https://github.com/Thundercat-Co/pair-panic",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
-    {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
         },
         {
           "class": "devicon-javascript-plain",
@@ -55,26 +38,59 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Gallery of Horns",
+      "startDate": "2023",
+      "description": "This was another fun project for Code Fellows coding 301 showcasing a gallery of fabulous horned beasts of which can pick your favorite!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/gallery-of-horns/goh1.png",
+        "images/portfolio/gallery-of-horns/goh2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/theladygen/gallery-of-horns",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Odd Duck",
+      "startDate": "2023",
+      "description": "This was a whimsical project built for Code Fellows 201 coding course highlighting skills in HTML, CSS, JavaScript, and local storage. Built using VS Code on a MacBook Pro utilizing HTML, CSS, JavaScript, Chart.js, and local storage.",
+      "images": [
+        "images/portfolio/odd-duck/od1.png",
+        "images/portfolio/odd-duck/od2.png"
+      ],
+      "url": "https://github.com/theladygen/odd-duck",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     }
