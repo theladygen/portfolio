@@ -1,118 +1,119 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi!",
+    "description": "👋 My name is Genevieve DuPuy, she/her, and I'm a full stack software dev based just north of Seattle in beautiful rural Snohomish, WA. Before diving into tech my background ran the gamut from customer service, to the restaurant industry, to teaching dance. Most recently my work has been as a small business owner and esthetician/sugarist. I'm passionate about working with people and stretching myself creatively. In building my own business I always wished for more tech savvy, so one of my goals is to use my experience in software development to help creatives and other small business folx bring their visions to life online, and in doing so, enrich local community. I love that there is always something new and exciting around the corner to learn, especially in the world of tech, and I'm looking forward to contributing to its diversification by adding my own unique voice to the mix. 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Pair Panic",
+      "startDate": "2023",
+      "description": "This was a collaborative group final project for Code Fellows 201 coding course made by Genevieve DuPuy, Drew Stroede, Justin Benjamin, and Ariania Palmer. We created a web application using a matching card game where the goal is to match 8 pets in the least amount of moves possible (16). The app showcases HTML, CSS, JavaScript, our furry pets, and a ChatGPT Thundercats origin story. It features game logic in order to detect matching or non-matching cards, count your moves and place your score.",
+      "images": [
+        "images/portfolio/pair-panic/pp1.png",
+        "images/portfolio/pair-panic/pp2.png",
+        "images/portfolio/pair-panic/pp3.png",
+        "images/portfolio/pair-panic/pp4.png"
+      ],
+      "url": "https://github.com/Thundercat-Co/pair-panic",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Gallery of Horns",
+      "startDate": "2023",
+      "description": "This was another fun project for Code Fellows coding 301 showcasing a gallery of fabulous horned beasts of which can pick your favorite!",
+      "images": [
+        "images/portfolio/gallery-of-horns/goh1.png",
+        "images/portfolio/gallery-of-horns/goh2.png"
+      ],
+      "url": "https://github.com/theladygen/gallery-of-horns",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Odd Duck",
+      "startDate": "2023",
+      "description": "This was a whimsical project built for Code Fellows 201 coding course highlighting skills in HTML, CSS, JavaScript, and local storage. Built using VS Code on a MacBook Pro utilizing HTML, CSS, JavaScript, Chart.js, and local storage.",
+      "images": [
+        "images/portfolio/odd-duck/od1.png",
+        "images/portfolio/odd-duck/od2.png"
+      ],
+      "url": "https://github.com/theladygen/odd-duck",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Sugar Peeps",
+      "title": "Owner/Esthetician",
+      "years": "10.2017 - present",
+      "mainTech": [],
+      "technologies": [
+        "Built this business from the ground up and increased income as sole operator and owner 30% in 2022",
+        "On track for a 50%+ increase in 2023.",
+        "Handled all marketing, servicing, scheduling, sales, supplies, finances, and bookkeeping."
+      ]
+    },
+    {
+      "company": "Murphy's Corner Dental",
+      "title": "RDA",
+      "years": "09.2020 - 02.2022",
+      "mainTech": [],
+      "technologies": [
+        "Assisted dentist and hygienists in charting and procedures and ran sterilization.",
+        "Stepped into front desk reception as well as other roles in the office whenever able and needed."
+      ]
+    }
+  ]
+}
